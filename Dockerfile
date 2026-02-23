@@ -1,4 +1,4 @@
-[200~FROM node:18-alpine
+FROM node:18-alpine
 
 # 컨테이너 내 작업 디렉토리 설정
 WORKDIR /app
